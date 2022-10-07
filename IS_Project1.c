@@ -5,7 +5,6 @@
 //  Created by Nishat Ahmed on 6/13/22.
 //
 
-#include "IS_Project1.h"
 #include <stdio.h>
 #include <string.h>
 #include <stdint.h>
